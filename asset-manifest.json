@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VacationBoard/static/css/main.2d0ea00d.css",
+    "main.js": "/VacationBoard/static/js/main.19168c1e.js",
+    "static/js/787.cda612ba.chunk.js": "/VacationBoard/static/js/787.cda612ba.chunk.js",
+    "static/media/bg.png": "/VacationBoard/static/media/bg.ca7ee456e846cfce8ee7.png",
+    "index.html": "/VacationBoard/index.html",
+    "main.2d0ea00d.css.map": "/VacationBoard/static/css/main.2d0ea00d.css.map",
+    "main.19168c1e.js.map": "/VacationBoard/static/js/main.19168c1e.js.map",
+    "787.cda612ba.chunk.js.map": "/VacationBoard/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d0ea00d.css",
+    "static/js/main.19168c1e.js"
+  ]
+}
